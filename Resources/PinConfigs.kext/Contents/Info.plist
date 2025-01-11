@@ -3868,6 +3868,24 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>Realtek ALC274 for Optiplex 7470 AIO</string>
+					<key>CodecID</key>
+					<integer>283902580</integer>
+					<key>ConfigData</key>
+					<data>AWcMAgIFAEUCBNaJATcdAAE3HgABNx9AAZccQAGXHRABlx6nAZcfAAG3HFABtx0QAbceAQG3HwECFx8B</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>11</integer>
+					<key>WakeConfigData</key>
+					<data>AWcMAg==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Andres ZeroCross - Realtek ALC274 for Dell Inspiron 27-7777 AIO Series</string>
 					<key>CodecID</key>
 					<integer>283902580</integer>
@@ -5413,6 +5431,24 @@
 					<integer>22</integer>
 					<key>WakeConfigData</key>
 					<data>AXcMAgIXDAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>Theroadw - Realtek ALC294 for Asus rog strix g512li</string>
+					<key>CodecID</key>
+					<integer>283902612</integer>
+					<key>ConfigData</key>
+					<data>AUccEAFHHQEBRx4XAUcfkAFHDAICFxwgAhcdEAIXHiECFx8DAhcMAgEnHDABJx0BAScepgEnH5ABlxxAAZcdEAGXHoEBlx8CATcc8AE3HQABNx4AATcfQAGHHPABhx0AAYceAAGHH0ABpxzwAacdAAGnHgABpx9AAbcc8AG3HQABtx4AAbcfQAHXHPAB1x0AAdceAAHXH0AB5xzwAecdAAHnHgAB5x9AAgUAEAIEASABlwckAhcIgw==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>24</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAg==</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
@@ -7513,6 +7549,24 @@
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>MSI GE60 2OC/2OE/2OD</string>
+					<key>CodecID</key>
+					<integer>283904146</integer>
+					<key>ConfigData</key>
+					<data>ARcc8AEXHQABFx4AARcfQAEnHPABJx0AASceAAEnH0ABRxwgAUcdEAFHHiEBRx8BAVcc8AFXHQABVx4AAVcfQAFnHPABZx0AAWceAAFnH0ABdxzwAXcdAAF3HgABdx9AAYccUAGHHRABhx6BAYcfAQGXHEABlx0BAZceowGXH5kBpxzwAacdAAGnHgABpx9AAbccEAG3HQEBtx4TAbcfmQHHHPABxx0AAcceAAHHH0AB1xzwAdcdAAHXHgAB1x9AAeccMAHnHRAB5x5FAecfAQH3HPAB9x0AAfceAAH3H0ABRwwC</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>66</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAg==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
 					<key>CodecID</key>
 					<integer>283904146</integer>
 					<key>Comment</key>
@@ -8509,6 +8563,22 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>11</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgG3DAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>CodecID</key>
+					<integer>283904768</integer>
+					<key>CodecName</key>
+					<string>VictorXu -  Realtek ALCS1200A for MSI B460I GAMING EDGE WIFI</string>
+					<key>ConfigData</key>
+					<data>AUccEAFHHVABRx4RAUcfkQFHDAIBtxwgAbcdQAG3HiEBtx8CAbcMAgHnHDAB5x0QAeceRQHnHwEBlxxQAZcdkAGXHoEBlx8CAVccYAFXHRABVx4BAVcfAQFnHHABZx0QAWceAQFnHwEBhxyAAYcdEAGHHqEBhx+RAacckAGnHRABpx6BAacfAQ==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>23</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAgG3DAI=</data>
 					<key>WakeVerbReinit</key>
@@ -10715,6 +10785,22 @@
 					<integer>89</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAgFXDAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>CodecID</key>
+					<integer>283904768</integer>
+					<key>CodecName</key>
+					<string>mobilestebu - Realtek ALCS1200A for ASUS TUF-Z390M-Gaming (based on owen0o0 layout 11)</string>
+					<key>ConfigData</key>
+					<data>AUccEAFHHUABRx4BAUcfAQFHDAIBtxwgAbcdQAG3HiEBtx8CAbcMAgEXHDABFx0BARceRgEXH5ABhxxQAYcdkAGHHqEBhx8BAaccXwGnHTABpx6BAacfAQGXHGABlx2QAZceoQGXHwI=</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>12</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgG3DAI=</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
